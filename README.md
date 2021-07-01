@@ -8,7 +8,8 @@ Feel free to reach out about research, Python, and data.
 
 ## Working papers
 
-<h3>Efficient Forestation in the Brazilian Amazon: Evidence from a Dynamic Model</h3> with Francisco Costa and Marcelo Sant'Anna
+<h3>Efficient Forestation in the Brazilian Amazon: Evidence from a Dynamic Model</h3> 
+with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://marcelosantanna.wordpress.com/">Marcelo Sant'Anna</a> 
 
 <h3>Multidimensional Sorting in the Land Market</h3> with Kátia Nishiyama
 
