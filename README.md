@@ -10,8 +10,6 @@ Feel free to reach out about research, Python, and data.
 
 <h3>Efficient Forestation in the Brazilian Amazon: Evidence from a Dynamic Model</h3> with Francisco Costa and Marcelo Sant'Anna
 
+<h3>Multidimensional Sorting in the Land Market</h3> with Kátia Nishiyama
 
-#### Multidimensional Sorting in the Land Market
-with Kátia Nishiyama
-
-#### When Clouds Go Dry: the Interplay of Deforestation, Rainfall, and Agriculture in the Amazon
+<h3>When Clouds Go Dry: the Interplay of Deforestation, Rainfall, and Agriculture in the Amazon</h3>
