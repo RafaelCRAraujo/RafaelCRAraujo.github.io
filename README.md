@@ -17,4 +17,4 @@ Abstract: This paper estimates the Brazilian Amazon’s carbon-efficient foresta
 
 In this paper, we study the sorting of farmers and land in a multidimensional setting. We incorporate a discrete choice model, where heterogeneous farmers choose among different crops, inside a central planner's problem, that allocates farmers to land to maximize aggregate expected production. We derive a sorting expression that can be used to build counterfactual allocations of farmers, and discuss when this sorting expression is only necessary or both necessary and sufficient to characterize the optimal matching. To illustrate our theoretical results we estimate our model using pixel level data from Brazil across 15 years.
 
-<h3>When Clouds Go Dry: the Interplay of Deforestation, Rainfall, and Agriculture in the Amazon</h3>
+<h3>When Clouds Go Dry: The Interplay of Deforestation, Rainfall, and Agriculture in the Amazon</h3>
