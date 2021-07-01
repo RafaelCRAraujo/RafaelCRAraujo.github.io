@@ -1,3 +1,1 @@
-title: Welcome
-description: I am a PhD candidate of economics at FGV and a senior analyst of Sustainable Infrastructure at Climate Policy Initiative
-logo: <img src="./assets/imgs/It_is_me.png" width="400px">
+a
