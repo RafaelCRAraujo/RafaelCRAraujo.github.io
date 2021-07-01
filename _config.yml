@@ -4,5 +4,17 @@ title: Rafael Araujo
 description: Senior Analyst at Climate Policy Initiative| PhD candidate at FGV                  
 logo: /assets/imgs/It_is_me.jpg
 
-twitter:
-  username               : AraujoCRRafael
+twitter: AraujoCRRafael
+github: 
+
+author:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:carlquist.rafael@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/RafaelCRAraujo"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/AraujoCRRafael"
