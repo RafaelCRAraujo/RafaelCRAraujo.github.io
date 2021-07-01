@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 
 title: Welcome
 description: I am a PhD candidate of economics at FGV and a senior analyst of Sustainable Infrastructure at Climate Policy Initiative
-logo: "./assets/imgs/It_is_me.png"
+logo: /assets/imgs/It_is_me.png
