@@ -1,8 +1,0 @@
-<b>Social</b><br>
-        <div class="social-row">
-          <a href="mailto:carlquist.rafael@gmail.com" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a><br>
-          <a href="https://github.com/RafaelCRAraujo"><i class="fa fa-fw fa-github-square"></i> GitHub</a><br>
-          <a href="https://twitter.com/AraujoCRRafael" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a><br>
-          <br>
-        </div>
-        <br>
