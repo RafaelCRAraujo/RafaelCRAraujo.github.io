@@ -1,6 +1,6 @@
 # Welcome
 
-I am a PhD student of Economics at Getulio Vargas Foundation (Rio de Janeiro - Brazil) and a Senior Analyst of Sustainable Infrastructure at Climate Policy Initiative.
+I am a PhD student of Economics at <a href="https://epge.fgv.br/en">Getulio Vargas Foundation</a> (Rio de Janeiro - Brazil) and a Senior Analyst of Sustainable Infrastructure at <a href="https://www.climatepolicyinitiative.org/">Climate Policy Initiative</a>.
 
 I am interested in environmental issues, particularly their social effects. 
 
