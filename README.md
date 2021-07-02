@@ -9,7 +9,7 @@ Feel free to reach out about research, Python, and data.
 ## Working papers
 
 <h3><a href="https://osf.io/preprints/socarxiv/8yfr7/">Efficient Forestation in the Brazilian Amazon: Evidence from a Dynamic Model</a></h3>
-with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://marcelosantanna.wordpress.com/">Marcelo Sant'Anna</a> 
+with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://marcelosantanna.wordpress.com/">Marcelo Sant'Anna</a><br> 
 Submitted
 
 Abstract: This paper estimates the Brazilian Amazon’s carbon-efficient forestation -- i.e., when farmers internalize the social cost of carbon. We propose a dynamic discrete choice model of land use and estimate it using a panel of land use and carbon stock of 5.7 billion pixels between 2008 and 2017. Business-as-usual implies an inefficient release of 44 gigatons of CO2 in the long run resulting from deforestation of an area twice the size of France. We find that small carbon taxes can mitigate a substantial part of inefficient deforestation. Only relatively larger taxes on cattle production would achieve a similar effect.
