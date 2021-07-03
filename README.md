@@ -6,6 +6,8 @@ I am interested in environmental issues, particularly their social effects.
 
 Feel free to reach out about research, Python, and data.
 
+<hr>
+
 ## Working papers
 
 <h3><a href="https://osf.io/preprints/socarxiv/8yfr7/">Efficient Forestation in the Brazilian Amazon: Evidence from a Dynamic Model</a></h3>
@@ -23,6 +25,7 @@ In this paper we study the sorting of farmers and land in a multidimensional set
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
 Submitted
 
+<hr>
 
 ## Work in Progress
 
@@ -31,3 +34,10 @@ with <a href="https://arthurbraganca.com/">Arthur Bragança</a>  and <a href="ht
 
 <h3>When Clouds Go Dry: The Interplay of Deforestation, Rainfall, and Agriculture in the Amazon</h3>
 
+<hr>
+
+## Policy
+
+<h3><a href="https://www.climatepolicyinitiative.org/publication/measuring-the-indirect-effects-of-transportation-infrastructure-in-the-amazon/">Measuring the Indirect Effects of Transportation Infrastructure in the Amazon</a></h3><br>
+Climate Policy Initiative, October 2020.<br>
+with <a href="https://arthurbraganca.com/">Arthur Bragança</a>  and <a href="http://www.econ.puc-rio.br/juliano/">Juliano Assunção</a> 
