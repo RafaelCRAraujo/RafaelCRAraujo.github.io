@@ -16,7 +16,7 @@ Submitted
 
 Abstract: This paper estimates the Brazilian Amazon’s carbon-efficient forestation -- i.e., when farmers internalize the social cost of carbon. We propose a dynamic discrete choice model of land use and estimate it using a panel of land use and carbon stock of 5.7 billion pixels between 2008 and 2017. Business-as-usual implies an inefficient release of 44 gigatons of CO2 in the long run resulting from deforestation of an area twice the size of France. We find that small carbon taxes can mitigate a substantial part of inefficient deforestation. Only relatively larger taxes on cattle production would achieve a similar effect.
 
-<h3><a href="https://rafaelcraraujo.github.io/assets/papers/AN_landsorting_202107.pdf">Multidimensional Sorting in the Land Market</a></h3>
+<h3>Multidimensional Sorting in the Land Market</h3>
 with Kátia Nishiyama
 
 In this paper we study the sorting of farmers and land in a multidimensional setting. We incorporate a discrete choice model, where heterogeneous farmers choose among different crops, inside a central planner's problem, that allocates farmers to land to maximize aggregate expected production. We derive a sorting expression that can be used to build counterfactual allocations of farmers, and discuss when this sorting expression is only necessary or both necessary and sufficient to characterize the optimal matching. To illustrate our theoretical results we estimate our model using pixel level data from Brazil across 15 years.
