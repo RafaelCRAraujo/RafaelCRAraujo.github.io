@@ -39,6 +39,11 @@ with <a href="https://arthurbraganca.com/">Arthur Bragança</a>  and <a href="ht
 
 ## Policy
 
+<h3><a href="https://www.climatepolicyinitiative.org/publication/mapping-the-effect-of-deforestation-on-rainfall-a-case-study-from-the-state-of-mato-grosso//">Mapping the Effect of Deforestation on Rainfall: a Case Study from the State of Mato Grosso</a></h3>
+Climate Policy Initiative, October 2021.<br>
+Media: <a href="https://valor.globo.com/brasil/noticia/2021/10/19/estudo-estima-perda-de-chuvas-em-mt-com-desmate-no-xingu.ghtml">Valor</a>
+
+
 <h3><a href="https://www.climatepolicyinitiative.org/publication/measuring-the-indirect-effects-of-transportation-infrastructure-in-the-amazon/">Measuring the Indirect Effects of Transportation Infrastructure in the Amazon</a></h3>
 Climate Policy Initiative, October 2020.<br>
 with <a href="https://arthurbraganca.com/">Arthur Bragança</a>  and <a href="http://www.econ.puc-rio.br/juliano/">Juliano Assunção</a> 
