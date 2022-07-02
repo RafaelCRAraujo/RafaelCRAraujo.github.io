@@ -2,7 +2,7 @@
 
 I am a Senior Analyst of Sustainable Infrastructure at <a href="https://www.climatepolicyinitiative.org/">Climate Policy Initiative</a> and a PhD student of Economics at <a href="https://epge.fgv.br/en">Getulio Vargas Foundation</a>, Rio de Janeiro, Brazil.
 
-I am interested in environmental issues, particularly their social effects. 
+I am interested in environmental issues and their social effects. 
 
 Feel free to contact me about research, Python, and data.
 
@@ -17,9 +17,9 @@ Submitted
 
 Abstract: This paper estimates the Brazilian Amazon’s carbon-efficient forestation -- i.e., when farmers internalize the social cost of carbon. We propose a dynamic discrete choice model of land use and estimate it using a panel of land use and carbon stock of 5.7 billion pixels between 2008 and 2017. Business-as-usual implies an inefficient release of 44 gigatons of CO2 in the long run resulting from deforestation of an area twice the size of France. We find that small carbon taxes can mitigate a substantial part of inefficient deforestation. Only relatively larger taxes on cattle production would achieve a similar effect.
 
-<h3>The Value of Amazon’s Flying Rivers for the Energy Sector: the Case of Teles Pires Hydroelectric</h3>
+<h3><a href="rafaelcraraujo.github.io/assets/papers/Deforestation_rainfall_energy.pdf"> Valuing Tropical Forests: Deforestation, Rainfall, and Hydropower</a></h3>
 
-Tropical forests have the capacity to affect rainfall regimes in a continental scale. In particular, the Amazon Rainforest provides a significant share of the South America's rainfall. This paper provides an approach to value this important ecological service of tropical forests to the energy sector. The Brazilian energy sector, where hydropower is the predominant source of energy, is particularly vulnerable to changes in rainfall and thus to impacts that deforestation has on rainfall. I develop an econometric climate model that connects the tropical deforestation with rainfall hundreds or even thousands of kilometers away from the forest. As an application, I estimate the impact that Amazon deforestation has on the power generation capacity of the Teles Pires hydropower plant. For some months of the year, the mean effect of lost generation capacity is of 10% with extreme scenarios of 17%, amounting to a potential loss for the hydroelectric operator of USD 21 million per year. I then map the regions of the Amazon that would have the highest values of preservation for the hydroelectric operator.
+Tropical forests affect rainfall regimes in a continental scale. This paper develops an approach to value this important ecological service to the energy sector. I develop an econometric climate model that connects tropical deforestation with rainfall hundreds or even thousands of kilometers away from the forest. As an application, I estimate the impact that Amazon deforestation has on the power generation capacity of the Teles Pires hydropower plant in Brazil, a country that has hydropower as its main source of energy. The decrease on energy generation is higher in the wet season, with an average decrease of 10% and extreme scenarios of 17%, amounting to a potential loss for the hydroelectric operator of USD 21 million per year. I then map the regions of the Amazon that would have the highest values of preservation for the hydroelectric operator. These results provide evidence of the economic importance of ecological services provided by tropical forests to economic activities.
 
 <h3>When Clouds Go Dry: An Integrated Model of Deforestation, Rainfall, and Agriculture</h3>
 
