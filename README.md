@@ -29,7 +29,7 @@ Deforestation of tropical forests affects rainfall, changing the productivity of
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
 Submitted
 
-International agreements to reduce anthropogenic environmental disasters rely on public pressure driving local action. We study whether focused media and increased public outcry can drive local environmental action,  reducing environmental damage. Although an annual affair,  forest fires in the Brazilian Amazon received unprecedented public scrutiny in August 2019. Comparing active fires in Brazil versus those in Peru and Bolivia in a difference-in-differences design, we find that increased public attention reduced fires by 22%  avoiding 24.8 million MtCO2 in emissions. Our results highlight the power of public attention to compel local action on pressing environmental issues.
+International agreements to reduce anthropogenic environmental disasters rely on public pressure driving local action. We study whether focused media and increased public outcry can drive local environmental action,  reducing environmental damage. Although an annual affair,  forest fires in the Brazilian Amazon received unprecedented public scrutiny in August 2019. Comparing active fires in Brazil versus those in Peru and Bolivia in a difference-in-differences design, we find that increased public attention reduced fires by 22%  avoiding 24.8 MtCO2 in emissions. Our results highlight the power of public attention to compel local action on pressing environmental issues.
 <hr>
 
 ## Work in Progress
