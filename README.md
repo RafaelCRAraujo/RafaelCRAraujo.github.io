@@ -1,5 +1,3 @@
-# Welcome
-
 I am a Senior Analyst of Sustainable Infrastructure at <a href="https://www.climatepolicyinitiative.org/">Climate Policy Initiative</a> and a PhD student of Economics at <a href="https://epge.fgv.br/en">Getulio Vargas Foundation</a>, Rio de Janeiro, Brazil.
 
 I am interested in environmental issues and their social effects. 
