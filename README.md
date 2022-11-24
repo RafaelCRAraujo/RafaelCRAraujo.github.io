@@ -10,6 +10,10 @@ Feel free to contact me about research, Python, and data.
 
 ## Working papers
 
+<h3><a href="assets/papers/WhenCloudsGoDry.pdf"> When Clouds Go Dry: An Integrated Model of Deforestation, Rainfall, and Agriculture</a></h3>
+
+Deforestation of tropical forests affects rainfall, changing the productivity of the agricultural sector, the main driver of deforestation. This deforestation-rainfall mechanism is in effect even in regions that are thousands of kilometers away from the forest, but does it result in a sizable externality? I develop an integrated climate and land-use model to measure the externality impact that land use decisions have on agricultural productivity through changes in rainfall. As an application, I use pixel level climate data for the entire Amazon Rainforest and pixel level land use data for the Brazilian state of Mato Grosso, one of the most important agricultural hubs in the world. I then consider a counterfactual where farmers are allowed to deforest protected areas. I find that, due to the precipitation decrease resulting from deforestation, the returns of crop production decrease by 2% with some regions losing up to 8%. Tail events increase this loss of crops production in some regions to 12%.
+
 <h3><a href="https://osf.io/preprints/socarxiv/8yfr7/">Efficient Forestation in the Brazilian Amazon: Evidence from a Dynamic Model</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://marcelosantanna.wordpress.com/">Marcelo Sant'Anna</a><br> 
 Media: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a><br> 
@@ -20,10 +24,6 @@ Abstract: This paper estimates the Brazilian Amazon’s carbon-efficient foresta
 <h3><a href="assets/papers/Deforestation_rainfall_energy.pdf"> The Value of Tropical Forests to Hydropower</a></h3>
 
 Tropical forests affect rainfall on a continental scale. I develop an approach to value this ecosystem service provided by tropical forests to the energy sector using an econometric climate model that connects tropical deforestation with rainfall, hundreds or even thousands of kilometers away from the forest. As an application, I estimate the impact that Amazon deforestation has on the power generation capacity of the Teles Pires hydropower plant in Brazil, one of the ten largest plants in a country that has hydropower as its main source of energy. The decrease in energy generation is higher in the wet season, with an average decrease of 10% and 17% in extreme scenarios, amounting to a potential loss for the hydroelectric operator of USD 21 million per year. I then map the regions of the Amazon that would have the highest conservation values for the hydroelectric. The results provide evidence of the economic importance of ecosystem services of tropical forests to economic activities.
-
-<h3>When Clouds Go Dry: An Integrated Model of Deforestation, Rainfall, and Agriculture</h3>
-
-Deforestation of tropical forests affects rainfall, changing the productivity of the agricultural sector, the main driver of deforestation. This deforestation-rainfall mechanism is in effect even in regions that are thousands of kilometers away from the forest, but does it result in a sizable externality? I develop an integrated climate and land-use model to measure the externality impact that land use decisions have on agricultural productivity through changes in rainfall. As an application, I use pixel level climate data for the entire Amazon Rainforest and pixel level land use data for the Brazilian state of Mato Grosso, one of the most important agricultural hubs in the world. I then consider a counterfactual where farmers are allowed to deforest protected areas. I find that, due to the precipitation decrease resulting from deforestation, the returns of crop production decrease by 2% with some regions losing up to 8%.
 
 <h3><a href="https://osf.io/preprints/socarxiv/xj3f6/">Public Attention and Environmental Action: Evidence from Fires in the Amazon</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
