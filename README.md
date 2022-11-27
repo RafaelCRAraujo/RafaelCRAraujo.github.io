@@ -4,7 +4,7 @@ I am a Senior Analyst of Sustainable Infrastructure at <a href="https://www.clim
 
 I am interested in environmental issues and their social effects. 
 
-Feel free to contact me about research, Python, and data.
+Feel free to contact me about research, code, and data.
 
 <hr>
 
