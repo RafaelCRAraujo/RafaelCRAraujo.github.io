@@ -10,6 +10,10 @@ Feel free to contact me about research, code, and data.
 
 ## Working papers
 
+<h3><a href="assets/papers/InfrastructureDeforestationGE.pdf"> The Effects of Transportation Infrastructure on Deforestation in the Amazon: A General Equilibrium Approach</a></h3>
+
+Investments in transportation infrastructure can impact the environment beyond their immediate surroundings. We build an inter-regional trade model to estimate the general equilibrium effects of changes in infrastructure on deforestation. Using panel data on the evolution of the transportation network from Brazil and land use data in the Amazon, we estimate the model and find sizable effects of infrastructure on deforestation. Model simulations show that ignoring general equilibrium underestimates deforestation impacts by one quarter. We also show that this model can be used to evaluate the deforestation induced by individual projects, an essential input for public policies.
+
 <h3><a href="assets/papers/WhenCloudsGoDry.pdf"> When Clouds Go Dry: An Integrated Model of Deforestation, Rainfall, and Agriculture</a></h3>
 
 Deforestation of tropical forests affects rainfall, changing the productivity of the agricultural sector, the main driver of deforestation. This deforestation-rainfall mechanism is in effect even in regions that are thousands of kilometers away from the forest, but does it result in a sizable externality? I develop an integrated climate and land-use model to measure the externality impact that land use decisions have on agricultural productivity through changes in rainfall. As an application, I use pixel level climate data for the entire Amazon Rainforest and pixel level land use data for the Brazilian state of Mato Grosso, one of the most important agricultural hubs in the world. I then consider a counterfactual where farmers are allowed to deforest protected areas. I find that, due to the precipitation decrease resulting from deforestation, the returns of crop production decrease by 2% with some regions losing up to 8%. Tail events increase this loss of crops production in some regions to 12%.
@@ -30,13 +34,6 @@ with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and 
 Submitted
 
 International agreements to reduce anthropogenic environmental disasters rely on public pressure driving local action. We study whether focused media and increased public outcry can drive local environmental action,  reducing environmental damage. Although an annual affair,  forest fires in the Brazilian Amazon received unprecedented public scrutiny in August 2019. Comparing active fires in Brazil versus those in Peru and Bolivia in a difference-in-differences design, we find that increased public attention reduced fires by 22%  avoiding 24.8 MtCO2 in emissions. Our results highlight the power of public attention to compel local action on pressing environmental issues.
-<hr>
-
-## Work in Progress
-
-<h3>Roads and Deforestation: A Market Access Approach</h3>
-with <a href="https://arthurbraganca.com/">Arthur Bragança</a>  and <a href="http://www.econ.puc-rio.br/juliano/">Juliano Assunção</a> 
-
 <hr>
 
 ## Policy
