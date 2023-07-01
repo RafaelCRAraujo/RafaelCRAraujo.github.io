@@ -1,6 +1,6 @@
 # Welcome
 
-I am a Senior Analyst of Sustainable Infrastructure at <a href="https://www.climatepolicyinitiative.org/">Climate Policy Initiative</a>. I hold a PhD in economics from <a href="https://epge.fgv.br/en">EPGE FGV</a>. I'll be joining <a href="https://eesp.fgv.br/en">EESP FGV</a> as an Assistant Professor in August 2023. 
+I am a Senior Analyst of Sustainable Infrastructure at <a href="https://www.climatepolicyinitiative.org/">Climate Policy Initiative</a>. I hold a PhD in economics from <a href="https://epge.fgv.br/en">FGV EPGE</a>. I'll be joining <a href="https://eesp.fgv.br/en">FGV EESP</a> as an Assistant Professor in August 2023. 
 
 I am interested in environmental issues and their social effects. 
 
