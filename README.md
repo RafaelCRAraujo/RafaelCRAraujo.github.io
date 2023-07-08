@@ -40,11 +40,14 @@ International agreements to reduce anthropogenic environmental disasters rely on
 
 ## Policy
 
+<h3><a href="https://aws.amazon.com/pt/blogs/hpc/simulating-climate-risk-scenarios-for-the-amazon-rainforest">Simulating Climate Risk Scenarios for the Amazon Rainforest</a></h3>
+Climate Policy Initiative and AWS, 2023.<br>
+
 <h3><a href="https://www.climatepolicyinitiative.org/publication/mapping-the-effect-of-deforestation-on-rainfall-a-case-study-from-the-state-of-mato-grosso//">Mapping the Effect of Deforestation on Rainfall: a Case Study from the State of Mato Grosso</a></h3>
-Climate Policy Initiative, October 2021.<br>
+Climate Policy Initiative, 2021.<br>
 Media: <a href="https://valor.globo.com/brasil/noticia/2021/10/19/estudo-estima-perda-de-chuvas-em-mt-com-desmate-no-xingu.ghtml">Valor</a>
 
 
 <h3><a href="https://www.climatepolicyinitiative.org/publication/measuring-the-indirect-effects-of-transportation-infrastructure-in-the-amazon/">Measuring the Indirect Effects of Transportation Infrastructure in the Amazon</a></h3>
-Climate Policy Initiative, October 2020.<br>
+Climate Policy Initiative, 2020.<br>
 with <a href="https://arthurbraganca.com/">Arthur Bragança</a>  and <a href="http://www.econ.puc-rio.br/juliano/">Juliano Assunção</a> 
