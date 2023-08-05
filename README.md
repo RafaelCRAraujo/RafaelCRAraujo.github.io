@@ -42,10 +42,11 @@ International agreements to reduce anthropogenic environmental disasters rely on
 
 <h3><a href="https://aws.amazon.com/pt/blogs/hpc/simulating-climate-risk-scenarios-for-the-amazon-rainforest">Simulating Climate Risk Scenarios for the Amazon Rainforest</a></h3>
 Climate Policy Initiative and AWS, 2023.<br>
+Media: <a href="https://oeco.org.br/reportagens/degradacao-florestal-acelera-o-colapso-da-amazonia/">O'Eco</a>, <a href="https://oglobo.globo.com/brasil/noticia/2023/06/desmatamento-na-amazonia-reduz-rios-voadores-que-garantem-chuva-em-outras-regioes-do-pais.ghtml">O Globo</a>
 
 <h3><a href="https://www.climatepolicyinitiative.org/publication/mapping-the-effect-of-deforestation-on-rainfall-a-case-study-from-the-state-of-mato-grosso//">Mapping the Effect of Deforestation on Rainfall: a Case Study from the State of Mato Grosso</a></h3>
 Climate Policy Initiative, 2021.<br>
-Media: <a href="https://valor.globo.com/brasil/noticia/2021/10/19/estudo-estima-perda-de-chuvas-em-mt-com-desmate-no-xingu.ghtml">Valor</a>
+Media: <a href="https://valor.globo.com/brasil/noticia/2021/10/19/estudo-estima-perda-de-chuvas-em-mt-com-desmate-no-xingu.ghtml">Valor</a>, <a href="https://oeco.org.br/reportagens/degradacao-florestal-acelera-o-colapso-da-amazonia/">O'Eco</a>
 
 
 <h3><a href="https://www.climatepolicyinitiative.org/publication/measuring-the-indirect-effects-of-transportation-infrastructure-in-the-amazon/">Measuring the Indirect Effects of Transportation Infrastructure in the Amazon</a></h3>
