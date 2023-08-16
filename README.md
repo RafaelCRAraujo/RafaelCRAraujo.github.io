@@ -10,6 +10,9 @@ Feel free to contact me about research, code, and data.
 
 ## Working papers
 
+<h3><a href="https://www.nber.org/papers/w31550"> Estimating the Spatial Amplification of Damage Caused by Degradation in the Amazon</a></h3>
+with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://econ.columbia.edu/econpeople/jose-scheinkman/">José A. Scheinkman</a> and <a href="https://ipes.ufsc.br/en/team/marina-hirota-2/">Marina Hirota</a><br>
+
 <h3><a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099753004192311879/idu0114c90f5059af043410a34b0cf206b4ecebb"> The Effects of Transportation Infrastructure on Deforestation in the Amazon: A General Equilibrium Approach</a></h3>
 with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://arthurbraganca.com/">Arthur Bragança</a><br>
 Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
