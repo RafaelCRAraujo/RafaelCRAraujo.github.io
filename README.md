@@ -1,6 +1,6 @@
 # Welcome
 
-I am an Assistant Professor of Economics at <a href="https://eesp.fgv.br/en">FGV EESP</a>.
+I am an Assistant Professor of Economics at <a href="https://economics-sp.fgv.br/">FGV EESP</a>.
 
 I am interested in environmental issues and their social effects. 
 
