@@ -38,10 +38,11 @@ R&R The Review of Economic Studies
 Abstract: This paper estimates the Brazilian Amazon’s carbon-efficient forestation -- i.e., when farmers internalize the social cost of carbon. We propose a dynamic discrete choice model of land use and estimate it using a panel of land use and carbon stock of 5.7 billion pixels between 2008 and 2017. Business-as-usual implies an inefficient release of 44 gigatons of CO2 in the long run resulting from deforestation of an area twice the size of France. We find that small carbon taxes can mitigate a substantial part of inefficient deforestation. Only relatively larger taxes on cattle production would achieve a similar effect.
 
 <h3><a href="assets/papers/Deforestation_rainfall_energy.pdf"> The Value of Tropical Forests to Hydropower</a></h3>
+Accepted at *Energy Economics*
 
 Tropical forests affect rainfall on a continental scale. I develop an approach to value this ecosystem service provided by tropical forests to the energy sector using an econometric climate model that connects tropical deforestation with rainfall, hundreds or even thousands of kilometers away from the forest. As an application, I estimate the impact that Amazon deforestation has on the power generation capacity of the Teles Pires hydropower plant in Brazil, one of the ten largest plants in a country that has hydropower as its main source of energy. The decrease in energy generation is higher in the wet season, with an average decrease of 10% and 17% in extreme scenarios, amounting to a potential loss for the hydroelectric operator of USD 21 million per year. I then map the regions of the Amazon that would have the highest conservation values for the hydroelectric. The results provide evidence of the economic importance of ecosystem services of tropical forests to economic activities.
 
-<h3><a href="https://osf.io/preprints/socarxiv/xj3f6/">Public Attention and Environmental Action: Evidence from Fires in the Amazon</a></h3>
+<h3><a href="https://osf.io/preprints/socarxiv/xj3f6/">Going Viral: Public Attention and Environmental Action in the Amazon</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
 Submitted
 
