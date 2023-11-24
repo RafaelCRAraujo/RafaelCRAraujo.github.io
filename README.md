@@ -18,7 +18,7 @@ The Amazon rainforests have been undergoing unprecedented levels of human-induce
 
 
 <h3><a href="https://authors.elsevier.com/a/1i8P%7E_3DAZv1gV"> The Value of Tropical Forests to Hydropower</a></h3>
-*Energy Economics.* <h3><a href="assets/papers/Deforestation_rainfall_energy.pdf"> Preprint</a></h3> 
+*Energy Economics.* <a href="assets/papers/Deforestation_rainfall_energy.pdf"> Preprint</a>
 
 Tropical forests affect rainfall on a continental scale. I develop an approach to value this ecosystem service provided by tropical forests to the energy sector using an econometric climate model that connects tropical deforestation with rainfall, hundreds or even thousands of kilometers away from the forest. As an application, I estimate the impact that Amazon deforestation has on the power generation capacity of the Teles Pires hydropower plant in Brazil, one of the ten largest plants in a country that has hydropower as its main source of energy. The decrease in energy generation is higher in the wet season, with an average decrease of 10% and 17% in extreme scenarios, amounting to a potential loss for the hydroelectric operator of USD 21 million per year. I then map the regions of the Amazon that would have the highest conservation values for the hydroelectric. The results provide evidence of the economic importance of ecosystem services of tropical forests to economic activities.
 
