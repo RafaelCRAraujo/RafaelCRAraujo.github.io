@@ -27,7 +27,7 @@ Tropical forests affect rainfall on a continental scale. I develop an approach t
 
 ## Working papers
 
-<h3><a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099753004192311879/idu0114c90f5059af043410a34b0cf206b4ecebb"> The Effects of Transportation Infrastructure on Deforestation in the Amazon: A General Equilibrium Approach</a></h3>
+<h3><a href="assets/papers/Infrastructure_deforestation_GE.pdf"> The Effects of Transportation Infrastructure on Deforestation in the Amazon: A General Equilibrium Approach</a></h3>
 with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://arthurbraganca.com/">Arthur Bragança</a><br>
 Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
 
