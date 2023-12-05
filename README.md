@@ -6,7 +6,7 @@ I am interested in environmental issues and their social effects.
 
 Feel free to contact me about research, code, and data.
 
-rafael.araujo@fgv.br
+Email: rafael.araujo@fgv.br
 
 <hr>
 
