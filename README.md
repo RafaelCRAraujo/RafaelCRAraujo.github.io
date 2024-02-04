@@ -24,7 +24,7 @@ with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and 
 ## Working papers
 
 <h3><a href="assets/papers/Infrastructure_deforestation_GE.pdf"> The Effects of Transportation Infrastructure on Deforestation in the Amazon: A General Equilibrium Approach</a></h3>
-with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://arthurbraganca.com/">Arthur Bragança</a><br>
+with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://arthurbraganca7.github.io/">Arthur Bragança</a><br>
 Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
 
 Investments in transportation infrastructure can impact the environment beyond their immediate surroundings. We build an inter-regional trade model to estimate the general equilibrium effects of changes in infrastructure on deforestation. Using panel data on the evolution of the transportation network from Brazil and land use data in the Amazon, we estimate the model and find sizable effects of infrastructure on deforestation. Model simulations show that ignoring general equilibrium underestimates deforestation impacts by one quarter. We also show that this model can be used to evaluate the deforestation induced by individual projects, an essential input for public policies.
