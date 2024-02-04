@@ -45,6 +45,11 @@ with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and 
 R&R *Journal of the Association of Environmental and Resource Economists*
 
 International agreements to reduce anthropogenic environmental disasters rely on public pressure driving local action. We study whether focused media and increased public outcry can drive local environmental action,  reducing environmental damage. Although an annual affair,  forest fires in the Brazilian Amazon received unprecedented public scrutiny in August 2019. Comparing active fires in Brazil versus those in Peru and Bolivia in a difference-in-differences design, we find that increased public attention reduced fires by 22%  avoiding 24.8 MtCO2 in emissions. Our results highlight the power of public attention to compel local action on pressing environmental issues.
+
+<h3><a href="https://osf.io/preprints/socarxiv/dk4bc">Seeds of Disparity: the Gender Land Divide from Brazil’s Agricultural Transition</a></h3>
+with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna Borges</a>, <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>,  and Kelly Santos 
+
+Gender gaps in land ownership are common across the world, favoring male-headed households with more wealth and land.  In low- and middle-income countries, where women lack property, inheritance, and credit rights, these disparities contribute to gender inequality in rural areas. The adoption of advanced agricultural technology, while economically positive, can worsen gender disparities. This paper studies the impact of new agricultural technologies on female land ownership, focusing on genetically engineered (GE) soy seeds in Brazil. Despite technology's potential to reduce gender inequality, we find a significant decline in female landownership in GE soy-exposed regions. We examine the role of mechanisms like credit access, property rights, and gender norms. We find that the effects are more pronounced where rural credit is more abundant, property rights are stronger, and gender norms are more unequal. Our findings highlight the unintended consequences of the spread of new technologies on rural asset ownership, underscoring the importance of considering gender disparities in crafting agricultural and climate change strategies.
 <hr>
 
 ## Policy
