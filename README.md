@@ -65,4 +65,4 @@ Media: <a href="https://valor.globo.com/brasil/noticia/2021/10/19/estudo-estima-
 
 <h3><a href="https://www.climatepolicyinitiative.org/publication/measuring-the-indirect-effects-of-transportation-infrastructure-in-the-amazon/">Measuring the Indirect Effects of Transportation Infrastructure in the Amazon</a></h3>
 Climate Policy Initiative, 2020.<br>
-with <a href="https://arthurbraganca.com/">Arthur Bragança</a>  and <a href="http://www.econ.puc-rio.br/juliano/">Juliano Assunção</a> 
+with <a href="https://arthurbraganca7.github.io/">Arthur Bragança</a>  and <a href="http://www.econ.puc-rio.br/juliano/">Juliano Assunção</a> 
