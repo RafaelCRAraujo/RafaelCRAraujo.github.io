@@ -16,7 +16,7 @@ Email: rafael.araujo@fgv.br
 with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://econ.columbia.edu/econpeople/jose-scheinkman/">José A. Scheinkman</a> and <a href="https://ipes.ufsc.br/en/team/marina-hirota-2/">Marina Hirota</a><br>
 *Proceedings of the National Academy of Sciences.* <a href="https://www.nber.org/papers/w31550">Preprint</a>
 
-<h3><a href="https://authors.elsevier.com/a/1i8P%7E_3DAZv1gV"> The Value of Tropical Forests to Hydropower</a></h3>
+<h3><a href="https://www.sciencedirect.com/science/article/pii/S014098832300703X"> The Value of Tropical Forests to Hydropower</a></h3>
 *Energy Economics.* <a href="assets/papers/Deforestation_rainfall_energy.pdf"> Preprint</a>
 
 <hr>
