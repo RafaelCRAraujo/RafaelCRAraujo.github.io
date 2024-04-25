@@ -19,6 +19,12 @@ with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and 
 <h3><a href="https://www.sciencedirect.com/science/article/pii/S014098832300703X"> The Value of Tropical Forests to Hydropower</a></h3>
 *Energy Economics.* <a href="assets/papers/Deforestation_rainfall_energy.pdf"> Preprint</a>
 
+<h3>Going Viral: Public Attention and Environmental Action in the Amazon</h3>
+with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
+R&R *Journal of the Association of Environmental and Resource Economists. Forthcoming* <a href="https://osf.io/preprints/socarxiv/xj3f6/"> Preprint</a>
+
+International agreements to reduce anthropogenic environmental disasters rely on public pressure driving local action. We study whether focused media and increased public outcry can drive local environmental action,  reducing environmental damage. Although an annual affair,  forest fires in the Brazilian Amazon received unprecedented public scrutiny in August 2019. Comparing active fires in Brazil versus those in Peru and Bolivia in a difference-in-differences design, we find that increased public attention reduced fires by 22%  avoiding 24.8 MtCO2 in emissions. Our results highlight the power of public attention to compel local action on pressing environmental issues.
+
 <hr>
 
 ## Working papers
@@ -39,12 +45,6 @@ Media: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazo
 R&R *The Review of Economic Studies*
 
 Abstract: This paper estimates the Brazilian Amazon’s carbon-efficient forestation -- i.e., when farmers internalize the social cost of carbon. We propose a dynamic discrete choice model of land use and estimate it using a panel of land use and carbon stock of 5.7 billion pixels between 2008 and 2017. Business-as-usual implies an inefficient release of 44 gigatons of CO2 in the long run resulting from deforestation of an area twice the size of France. We find that small carbon taxes can mitigate a substantial part of inefficient deforestation. Only relatively larger taxes on cattle production would achieve a similar effect.
-
-<h3><a href="https://osf.io/preprints/socarxiv/xj3f6/">Going Viral: Public Attention and Environmental Action in the Amazon</a></h3>
-with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
-R&R *Journal of the Association of Environmental and Resource Economists*
-
-International agreements to reduce anthropogenic environmental disasters rely on public pressure driving local action. We study whether focused media and increased public outcry can drive local environmental action,  reducing environmental damage. Although an annual affair,  forest fires in the Brazilian Amazon received unprecedented public scrutiny in August 2019. Comparing active fires in Brazil versus those in Peru and Bolivia in a difference-in-differences design, we find that increased public attention reduced fires by 22%  avoiding 24.8 MtCO2 in emissions. Our results highlight the power of public attention to compel local action on pressing environmental issues.
 
 <h3><a href="https://osf.io/preprints/socarxiv/dk4bc">Seeds of Disparity: the Gender Land Divide from Brazil’s Agricultural Transition</a></h3>
 with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna Borges</a>, <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>,  and Kelly Santos 
