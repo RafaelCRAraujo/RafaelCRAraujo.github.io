@@ -21,7 +21,7 @@ with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and 
 
 <h3>Going Viral: Public Attention and Environmental Action in the Amazon</h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
-*Journal of the Association of Environmental and Resource Economists, forthcoming* <a href="https://osf.io/preprints/socarxiv/xj3f6/"> Preprint</a>
+*Journal of the Association of Environmental and Resource Economists, forthcoming* <a "assets/papers/GoingViral.pdf"> Preprint</a>
 
 ## Working papers
 
