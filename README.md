@@ -19,7 +19,7 @@ with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and 
 <h3><a href="https://www.sciencedirect.com/science/article/pii/S014098832300703X"> The Value of Tropical Forests to Hydropower</a></h3>
 *Energy Economics.* <a href="assets/papers/Deforestation_rainfall_energy.pdf"> Preprint</a>
 
-<h3>Going Viral: Public Attention and Environmental Action in the Amazon</h3>
+<h3><a href="https://www.journals.uchicago.edu/doi/10.1086/731080"> Going Viral: Public Attention and Environmental Action in the Amazon</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
 *Journal of the Association of Environmental and Resource Economists, forthcoming* <a href="assets/papers/GoingViral.pdf"> Preprint</a>
 
