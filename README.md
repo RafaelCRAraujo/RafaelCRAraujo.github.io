@@ -18,7 +18,7 @@ with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and 
 
 <h3><a href="https://www.sciencedirect.com/science/article/pii/S014098832300703X"> The Value of Tropical Forests to Hydropower</a></h3>
 *Energy Economics.* <a href="assets/papers/Deforestation_rainfall_energy.pdf"> Preprint</a><br>
-Media: <a href="https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2024/04/desmatamento-chuvas-e-geracao-de-energia-eletrica.shtml">Folha</a><br>
+Media: <a href="https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2024/04/desmatamento-chuvas-e-geracao-de-energia-eletrica.shtml">Folha</a><br>, <a href="https://g1.globo.com/jornal-nacional/noticia/2024/09/19/estiagem-no-brasil-e-consequencia-direta-da-devastacao-da-amazonia-pelo-fogo-e-pela-exploracao-ilegal-de-madeira-dizem-especialistas.ghtml">Jornal Nacional</a><br>
 
 <h3><a href="https://www.journals.uchicago.edu/doi/10.1086/731080"> Going Viral: Public Attention and Environmental Action in the Amazon</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
