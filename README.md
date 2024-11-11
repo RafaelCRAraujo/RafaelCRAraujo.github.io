@@ -27,15 +27,15 @@ Media: <a href="https://www.nature.com/articles/s41558-024-02186-w">Nature CC</a
 
 ## Working papers
 
+<h3><a href="assets/papers/WhenCloudsGoDry.pdf"> When Clouds Go Dry: An Integrated Model of Deforestation, Rainfall, and Agriculture</a></h3>
+
+I develop a discrete choice model of deforestation with spatially heterogeneous endogenous climate. Using pixel-level data for the Amazon Rainforest and the Brazilian state of Mato Grosso,  one of the most important agricultural hubs in the world, I estimate the model and consider a counterfactual where farmers are allowed to deforest protected areas. Deforestation reduces rainfall and increases temperatures for downwind farmers, creating cascading effects on a network of externalities. Ignoring climate feedback loops significantly underestimates the costs of deforestation, highlighting the importance of considering climate endogeneity beyond the production-emissions-temperature framework.
+
 <h3><a href="assets/papers/Infrastructure_deforestation_GE.pdf"> The Effects of Transportation Infrastructure on Deforestation in the Amazon: A General Equilibrium Approach</a></h3>
 with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://arthurbraganca7.github.io/">Arthur Bragança</a><br>
 Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
 
 Investments in transportation infrastructure can impact the environment beyond their immediate surroundings. We build an inter-regional trade model to estimate the general equilibrium effects of changes in infrastructure on deforestation. Using panel data on the evolution of the transportation network from Brazil and land use data in the Amazon, we estimate the model and find sizable effects of infrastructure on deforestation. Model simulations show that ignoring general equilibrium underestimates deforestation impacts by one quarter. We also show that this model can be used to evaluate the deforestation induced by individual projects, an essential input for public policies.
-
-<h3><a href="assets/papers/WhenCloudsGoDry.pdf"> When Clouds Go Dry: An Integrated Model of Deforestation, Rainfall, and Agriculture</a></h3>
-
-Deforestation of tropical forests affects rainfall, changing the productivity of the agricultural sector, the main driver of deforestation. This deforestation-rainfall mechanism is in effect even in regions that are thousands of kilometers away from the forest, but does it result in a sizable externality? I develop an integrated climate and land-use model to measure the externality impact that land use decisions have on agricultural productivity through changes in rainfall. As an application, I use pixel level climate data for the entire Amazon Rainforest and pixel level land use data for the Brazilian state of Mato Grosso, one of the most important agricultural hubs in the world. I then consider a counterfactual where farmers are allowed to deforest protected areas. I find that, due to the precipitation decrease resulting from deforestation, the returns of crop production decrease by 2% with some regions losing up to 8%. Tail events increase this loss of crops production in some regions to 12%.
 
 <h3><a href="https://osf.io/preprints/socarxiv/8yfr7/">Efficient Forestation in the Brazilian Amazon: Evidence from a Dynamic Model</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://marcelosantanna.wordpress.com/">Marcelo Sant'Anna</a><br> 
