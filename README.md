@@ -25,6 +25,13 @@ with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and 
 *Journal of the Association of Environmental and Resource Economists* <a href="assets/papers/GoingViral.pdf"> Preprint</a><br>
 Media: <a href="https://www.nature.com/articles/s41558-024-02186-w">Nature CC</a><br>
 
+<h3><a href="assets/papers/Efficient_Forestation.pdf">Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model</a></h3>
+with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://marcelosantanna.wordpress.com/">Marcelo Sant'Anna</a><br> 
+Media: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a><br> 
+*The Review of Economic Studies, forthcoming*
+
+This paper estimates the Brazilian Amazon’s carbon-efficient forest cover -- i.e. when farmers internalize the social cost of carbon. We propose a dynamic discrete choice land-use model and estimate it using a panel of land use and carbon stock of 5.7 billion pixels between 2008 and 2017. The business-as-usual scenario implies an inefficient release of 42 billion tons of CO2 in the long run resulting from the deforestation of an area twice the size of France. A carbon tax that makes farmers internalize the social cost of carbon would implement the efficient allocation and generate welfare gains exceeding 1.6 trillion dollars. Responses from a carbon tax are highly convex: a carbon tax of only $10/ton would preserve 95% of the efficient carbon stock. An excise tax on cattle ranching, a second-best policy, achieves at most 87% of the first-best welfare gains.
+
 ## Working papers
 
 <h3><a href="assets/papers/WhenCloudsGoDry.pdf"> When Clouds Go Dry: An Integrated Model of Deforestation, Rainfall, and Agriculture</a></h3>
@@ -36,13 +43,6 @@ with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and 
 Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
 
 Investments in transportation infrastructure can impact the environment beyond their immediate surroundings. We build an inter-regional trade model to estimate the general equilibrium effects of changes in infrastructure on deforestation. Using panel data on the evolution of the transportation network from Brazil and land use data in the Amazon, we estimate the model and find sizable effects of infrastructure on deforestation. Model simulations show that ignoring general equilibrium underestimates deforestation impacts by one quarter. We also show that this model can be used to evaluate the deforestation induced by individual projects, an essential input for public policies.
-
-<h3><a href="https://osf.io/preprints/socarxiv/8yfr7/">Efficient Forestation in the Brazilian Amazon: Evidence from a Dynamic Model</a></h3>
-with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://marcelosantanna.wordpress.com/">Marcelo Sant'Anna</a><br> 
-Media: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a><br> 
-R&R *The Review of Economic Studies*
-
-This paper estimates the Brazilian Amazon’s carbon-efficient forestation -- i.e., when farmers internalize the social cost of carbon. We propose a dynamic discrete choice model of land use and estimate it using a panel of land use and carbon stock of 5.7 billion pixels between 2008 and 2017. Business-as-usual implies an inefficient release of 44 gigatons of CO2 in the long run resulting from deforestation of an area twice the size of France. We find that small carbon taxes can mitigate a substantial part of inefficient deforestation. Only relatively larger taxes on cattle production would achieve a similar effect.
 
 <h3><a href="https://osf.io/preprints/socarxiv/dk4bc">Seeds of Disparity: the Gender Land Divide from Brazil’s Agricultural Transition</a></h3>
 with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna Borges</a>, <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>,  and <a href="https://sites.google.com/view/kellygonsantos/home">Kelly Santos</a> 
