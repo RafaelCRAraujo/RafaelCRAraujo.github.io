@@ -30,8 +30,6 @@ with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and 
 Media: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a><br> 
 *The Review of Economic Studies, forthcoming*
 
-This paper estimates the Brazilian Amazon’s carbon-efficient forest cover -- i.e. when farmers internalize the social cost of carbon. We propose a dynamic discrete choice land-use model and estimate it using a panel of land use and carbon stock of 5.7 billion pixels between 2008 and 2017. The business-as-usual scenario implies an inefficient release of 42 billion tons of CO2 in the long run resulting from the deforestation of an area twice the size of France. A carbon tax that makes farmers internalize the social cost of carbon would implement the efficient allocation and generate welfare gains exceeding 1.6 trillion dollars. Responses from a carbon tax are highly convex: a carbon tax of only $10/ton would preserve 95% of the efficient carbon stock. An excise tax on cattle ranching, a second-best policy, achieves at most 87% of the first-best welfare gains.
-
 ## Working papers
 
 <h3><a href="assets/papers/WhenCloudsGoDry.pdf"> When Clouds Go Dry: An Integrated Model of Deforestation, Rainfall, and Agriculture</a></h3>
