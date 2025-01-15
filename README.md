@@ -27,8 +27,8 @@ Media: <a href="https://www.nature.com/articles/s41558-024-02186-w">Nature CC</a
 
 <h3><a href="assets/papers/Efficient_Forestation.pdf">Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://marcelosantanna.wordpress.com/">Marcelo Sant'Anna</a><br> 
-Media: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a><br> 
-*The Review of Economic Studies, forthcoming*
+*The Review of Economic Studies, forthcoming*<br>
+Media: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a> 
 
 ## Working papers
 
