@@ -51,6 +51,11 @@ Gender gaps in land ownership are common across the world, favoring male-headed 
 with <a href="https://sites.google.com/view/leilaarp/">Leila Pereira</a> and <a href="https://rogeriosantarrosa.wordpress.com/">Rogerio Santarrosa</a>
 
 We examine the impact of short-term temperature changes on voting behavior in the Brazilian presidential elections from 2010 to 2018, focusing on the candidacy of Marina Silva, a prominent pro-environment politician. Using data on municipality-level voting and daily wet bulb temperature, we find that an increase in temperature on election day increases votes for Marina Silva. We argue that this effect is driven by the salience of climate change issues, which influences last-minute voting decisions. Our analysis also shows that temperature variations in the days preceding the election have a limited impact on voting outcomes, highlighting the transient nature of climate salience effects.
+
+<h3><a href="https://arxiv.org/abs/2502.12141">Potato Potahto in the FAO-GAEZ Productivity Measures? Nonclassical Measurement Error with Multiple Proxies</a></h3>
+with <a href="https://sites.google.com/site/vitorapossebom/">Vitor Possebom</a>
+
+The FAO-GAEZ crop productivity data are widely used in Economics. However, the existence of measurement error is rarely recognized in the empirical literature. We propose a novel method to partially identify the effect of agricultural productivity, deriving bounds that allow for nonclassical measurement error by leveraging two proxies. These bounds exhaust all the information contained in the first two moments of the data. We reevaluate three influential studies, documenting that measurement error matters and that the impact of agricultural productivity on economic outcomes may be smaller than previously reported. Our methodology has broad applications in empirical research involving mismeasured variables.
 <hr>
 
 ## Policy
