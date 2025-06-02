@@ -30,17 +30,16 @@ with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and 
 *The Review of Economic Studies, forthcoming*<br>
 Media: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a> 
 
+<h3><a href="assets/papers/Infrastructure_deforestation_GE.pdf">Transportation Infrastructure and Deforestation in the Amazon</a></h3>
+with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://arthurbraganca7.github.io/">Arthur Bragança</a><br>
+*Journal of Development Economics, forthcoming*<br>
+Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
+
 ## Working papers
 
 <h3><a href="assets/papers/WhenCloudsGoDry.pdf"> When Clouds Go Dry: An Integrated Model of Deforestation, Rainfall, and Agriculture</a></h3>
 
 I develop a discrete choice model of deforestation with spatially heterogeneous endogenous climate. Using pixel-level data for the Amazon Rainforest and the Brazilian state of Mato Grosso,  one of the most important agricultural hubs in the world, I estimate the model and consider a counterfactual where farmers are allowed to deforest protected areas. Deforestation reduces rainfall and increases temperatures for downwind farmers, creating cascading effects on a network of externalities. Ignoring climate feedback loops significantly underestimates the costs of deforestation, highlighting the importance of considering climate endogeneity beyond the production-emissions-temperature framework.
-
-<h3><a href="assets/papers/Infrastructure_deforestation_GE.pdf"> The Effects of Transportation Infrastructure on Deforestation in the Amazon: A General Equilibrium Approach</a></h3>
-with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://arthurbraganca7.github.io/">Arthur Bragança</a><br>
-Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
-
-Investments in transportation infrastructure can impact the environment beyond their immediate surroundings. We build an inter-regional trade model to estimate the general equilibrium effects of changes in infrastructure on deforestation. Using panel data on the evolution of the transportation network from Brazil and land use data in the Amazon, we estimate the model and find sizable effects of infrastructure on deforestation. Model simulations show that ignoring general equilibrium underestimates deforestation impacts by one quarter. We also show that this model can be used to evaluate the deforestation induced by individual projects, an essential input for public policies.
 
 <h3><a href="https://osf.io/preprints/socarxiv/dk4bc">Seeds of Disparity: the Gender Land Divide from Brazil’s Agricultural Transition</a></h3>
 with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna Borges</a>, <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>,  and <a href="https://sites.google.com/view/kellygonsantos/home">Kelly Santos</a> 
