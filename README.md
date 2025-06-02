@@ -22,17 +22,17 @@ Media: <a href="https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2024/04
 
 <h3><a href="https://www.journals.uchicago.edu/doi/10.1086/731080"> Going Viral: Public Attention and Environmental Action in the Amazon</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
-*Journal of the Association of Environmental and Resource Economists* <a href="assets/papers/GoingViral.pdf"> Preprint</a><br>
+*Journal of the Association of Environmental and Resource Economists.* <a href="assets/papers/GoingViral.pdf"> Preprint</a><br>
 Media: <a href="https://www.nature.com/articles/s41558-024-02186-w">Nature CC</a><br>
 
 <h3><a href="https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdaf031/8140881?rss=1">Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://marcelosantanna.wordpress.com/">Marcelo Sant'Anna</a><br> 
-*The Review of Economic Studies, forthcoming* <a href="assets/papers/Efficient_Forestation.pdf">Preprint</a> <br> 
+*The Review of Economic Studies, forthcoming.* <a href="assets/papers/Efficient_Forestation.pdf">Preprint</a> <br> 
 Media: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a> 
 
 <h3><a href="assets/papers/Infrastructure_deforestation_GE.pdf">Transportation Infrastructure and Deforestation in the Amazon</a></h3>
 with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://arthurbraganca7.github.io/">Arthur Bragança</a><br>
-*Journal of Development Economics, forthcoming*<br>
+*Journal of Development Economics, forthcoming.*<br>
 Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
 
 ## Working papers
