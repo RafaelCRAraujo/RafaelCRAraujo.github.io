@@ -35,16 +35,16 @@ with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and 
 *Journal of Development Economics.* <a href="assets/papers/Infrastructure_deforestation_GE.pdf">Preprint</a> <br>
 Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
 
+<h3><a href="https://osf.io/preprints/socarxiv/dk4bc">Seeds of Disparity: the Gender Land Divide from Brazil’s Agricultural Transition</a></h3>
+with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna Borges</a>, <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>,  and <a href="https://sites.google.com/view/kellygonsantos/home">Kelly Santos</a> <br>
+forthcoming *Journal of Economic Behavior and Organization*
+
 ## Working papers
 
 <h3><a href="assets/papers/WhenCloudsGoDry.pdf"> When Clouds Go Dry: An Integrated Model of Deforestation, Rainfall, and Agriculture</a></h3>
+R&R *Journal of Political Economy*
 
 I develop a discrete choice model of deforestation with spatially heterogeneous endogenous climate. Using pixel-level data for the Amazon Rainforest and the Brazilian state of Mato Grosso,  one of the most important agricultural hubs in the world, I estimate the model and consider a counterfactual where farmers are allowed to deforest protected areas. Deforestation reduces rainfall and increases temperatures for downwind farmers, creating cascading effects on a network of externalities. Ignoring climate feedback loops significantly underestimates the costs of deforestation, highlighting the importance of considering climate endogeneity beyond the production-emissions-temperature framework.
-
-<h3><a href="https://osf.io/preprints/socarxiv/dk4bc">Seeds of Disparity: the Gender Land Divide from Brazil’s Agricultural Transition</a></h3>
-with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna Borges</a>, <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>,  and <a href="https://sites.google.com/view/kellygonsantos/home">Kelly Santos</a> 
-
-Gender gaps in land ownership are common across the world, favoring male-headed households with more wealth and land.  In low- and middle-income countries, where women lack property, inheritance, and credit rights, these disparities contribute to gender inequality in rural areas. The adoption of advanced agricultural technology, while economically positive, can worsen gender disparities. This paper studies the impact of new agricultural technologies on female land ownership, focusing on genetically engineered (GE) soy seeds in Brazil. Despite technology's potential to reduce gender inequality, we find a significant decline in female landownership in GE soy-exposed regions. We examine the role of mechanisms like credit access, property rights, and gender norms. We find that the effects are more pronounced where rural credit is more abundant, property rights are stronger, and gender norms are more unequal. Our findings highlight the unintended consequences of the spread of new technologies on rural asset ownership, underscoring the importance of considering gender disparities in crafting agricultural and climate change strategies.
 
 <h3><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912460">Voting in the Heat of the Moment: Climate Change Salience and Electoral Behavior</a></h3>
 with <a href="https://sites.google.com/view/leilaarp/">Leila Pereira</a> and <a href="https://rogeriosantarrosa.wordpress.com/">Rogerio Santarrosa</a>
