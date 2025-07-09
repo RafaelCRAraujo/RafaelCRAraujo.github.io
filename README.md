@@ -37,7 +37,7 @@ Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footpr
 
 <h3><a href="https://osf.io/preprints/socarxiv/dk4bc">Seeds of Disparity: the Gender Land Divide from Brazil’s Agricultural Transition</a></h3>
 with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna Borges</a>, <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>,  and <a href="https://sites.google.com/view/kellygonsantos/home">Kelly Santos</a> <br>
-forthcoming *Journal of Economic Behavior and Organization*
+*Journal of Economic Behavior and Organization*, forthcoming 
 
 ## Working papers
 
