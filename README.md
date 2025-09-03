@@ -30,14 +30,14 @@ with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and 
 *The Review of Economic Studies.* <a href="assets/papers/Efficient_Forestation.pdf">Preprint</a> <br> 
 Media: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a> 
 
-<h3><a href="https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fkwnsfk27.r.eu-west-1.awstrack.me%2FL0%2Fhttps%3A%252F%252Fauthors.elsevier.com%252Fa%252F1lHMg15DRGBkAH%2F1%2F010201977ccc0972-ce6d0a2e-3f2e-4424-b952-5458a73125ba-000000%2FG2KGnIB1tliSFHLEYuyD9Zo5TP4%3D430&data=05%7C02%7Crafael.araujo%40fgv.br%7C50f7380651554ad84bad08ddad82a585%7C79f6b639ab1242808077bdbeef869b33%7C0%7C0%7C638857499224034328%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FAFHlp7y%2Bo27Ch%2Fd6P0R1%2B8vY%2BldXPuy4VL6S1IAAC8%3D&reserved=0">Transportation Infrastructure and Deforestation in the Amazon</a></h3>
+<h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387825001105">Transportation Infrastructure and Deforestation in the Amazon</a></h3>
 with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://arthurbraganca7.github.io/">Arthur Bragança</a><br>
 *Journal of Development Economics.* <a href="assets/papers/Infrastructure_deforestation_GE.pdf">Preprint</a> <br>
 Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
 
-<h3><a href="https://osf.io/preprints/socarxiv/dk4bc">Seeds of Disparity: the Gender Land Divide from Brazil’s Agricultural Transition</a></h3>
+<h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268125002641">Seeds of Disparity: the Gender Land Divide from Brazil’s Agricultural Transition</a></h3>
 with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna Borges</a>, <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>,  and <a href="https://sites.google.com/view/kellygonsantos/home">Kelly Santos</a> <br>
-*Journal of Economic Behavior and Organization*, forthcoming 
+*Journal of Economic Behavior and Organization* <a href="https://osf.io/preprints/socarxiv/dk4bc">Preprint</a> <br>
 
 ## Working papers
 
