@@ -18,22 +18,22 @@ with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and 
 
 <h3><a href="https://www.sciencedirect.com/science/article/pii/S014098832300703X"> The Value of Tropical Forests to Hydropower</a></h3>
 *Energy Economics.* <a href="assets/papers/Deforestation_rainfall_energy.pdf"> Preprint</a><br>
-Media: <a href="https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2024/04/desmatamento-chuvas-e-geracao-de-energia-eletrica.shtml">Folha</a>, <a href="https://g1.globo.com/jornal-nacional/noticia/2024/09/19/estiagem-no-brasil-e-consequencia-direta-da-devastacao-da-amazonia-pelo-fogo-e-pela-exploracao-ilegal-de-madeira-dizem-especialistas.ghtml">Jornal Nacional</a><br>
+Outreach: <a href="https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2024/04/desmatamento-chuvas-e-geracao-de-energia-eletrica.shtml">Folha</a>, <a href="https://g1.globo.com/jornal-nacional/noticia/2024/09/19/estiagem-no-brasil-e-consequencia-direta-da-devastacao-da-amazonia-pelo-fogo-e-pela-exploracao-ilegal-de-madeira-dizem-especialistas.ghtml">Jornal Nacional</a><br>
 
 <h3><a href="https://www.journals.uchicago.edu/doi/10.1086/731080"> Going Viral: Public Attention and Environmental Action in the Amazon</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
 *Journal of the Association of Environmental and Resource Economists.* <a href="assets/papers/GoingViral.pdf"> Preprint</a><br>
-Media: <a href="https://www.nature.com/articles/s41558-024-02186-w">Nature CC</a><br>
+Outreach: <a href="https://www.nature.com/articles/s41558-024-02186-w">Nature CC</a><br>
 
 <h3><a href="https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdaf031/8140881?rss=1">Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://marcelosantanna.wordpress.com/">Marcelo Sant'Anna</a><br> 
 *The Review of Economic Studies.* <a href="assets/papers/Efficient_Forestation.pdf">Preprint</a> <br> 
-Media: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a> 
+Outreach: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a> 
 
 <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387825001105">Transportation Infrastructure and Deforestation in the Amazon</a></h3>
 with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://arthurbraganca7.github.io/">Arthur Bragança</a><br>
 *Journal of Development Economics.* <a href="assets/papers/Infrastructure_deforestation_GE.pdf">Preprint</a> <br>
-Media: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
+Outreach: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
 
 <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268125002641">Seeds of Disparity: the Gender Land Divide from Brazil’s Agricultural Transition</a></h3>
 with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna Borges</a>, <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>,  and <a href="https://sites.google.com/view/kellygonsantos/home">Kelly Santos</a> <br>
@@ -57,7 +57,9 @@ with <a href="https://sites.google.com/site/vitorapossebom/">Vitor Possebom</a>
 The FAO-GAEZ crop productivity data are widely used in Economics. However, the existence of measurement error is rarely recognized in the empirical literature. We propose a novel method to partially identify the effect of agricultural productivity, deriving bounds that allow for nonclassical measurement error by leveraging two proxies. These bounds exhaust all the information contained in the first two moments of the data. We reevaluate three influential studies, documenting that measurement error matters and that the impact of agricultural productivity on economic outcomes may be smaller than previously reported. Our methodology has broad applications in empirical research involving mismeasured variables.
 
 <h3><a href="https://arxiv.org/abs/2509.06076">DETERring more than Deforestation: Environmental Enforcement Reduces Violence in the Amazon</a></h3>
-with <a href="https://sites.google.com/site/vitorapossebom/">Vitor Possebom</a> and <a href="https://sites.google.com/view/gabrielasetti/home#h.wxgctqi6bbf6">Gabriela Setti</a>
+with <a href="https://sites.google.com/site/vitorapossebom/">Vitor Possebom</a> and <a href="https://sites.google.com/view/gabrielasetti/home#h.wxgctqi6bbf6">Gabriela Setti</a><br>
+Outreach: <a href="https://amazonia2030.org.br/combate-ao-desmatamento-reduz-a-criminalidade-na-amazonia/">Amazonia2030</a>, <a href="https://www.dw.com/pt-br/controle-do-desmatamento-reduz-assassinatos-na-amaz%C3%B4nia/a-74938995">DW</a><br> 
+
 
 We estimate the impact of environmental law enforcement on violence in the Brazilian Amazon. The introduction of the Real-Time Deforestation Detection System (DETER), which enabled the government to monitor deforestation in real time and issue fines for illegal clearing, significantly reduced homicides in the region. To identify causal effects, we exploit exogenous variation in satellite monitoring generated by cloud cover as an instrument for enforcement intensity. Our estimates imply that the expansion of state presence through DETER prevented approximately 1,477 homicides per year,  a 15% reduction in homicides. These results show that curbing deforestation produces important social co-benefits, strengthening state presence and reducing violence in regions marked by institutional fragility and resource conflict.
 <hr>
