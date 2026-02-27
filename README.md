@@ -64,6 +64,7 @@ We estimate the impact of environmental law enforcement on violence in the Brazi
 
 <h3></a>Drying the Wetland: Water Scarcity in the Brazilian Pantanal</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a> and Vinícius Hector
+
 R&R *Journal of Environmental Economics and Management*
 
 This paper examines the impact of upstream deforestation on water coverage and burned area in wetlands. Using a panel dataset of satellite-derived land cover for multiple hydrographic basins, we analyze this relationship in the Brazilian Pantanal from 1985 to 2023. We find that a 1% increase in upstream deforestation reduces water coverage by 0.51% and increases burned area by 0.55% per year. The effect of upstream deforestation on downstream burned area generates an emissions multiplier, as carbon released through deforestation is compounded by emissions from downstream burned area. On average, for each ton of carbon emitted due to deforestation, an additional 0.14 tons are released through downstream fire.
