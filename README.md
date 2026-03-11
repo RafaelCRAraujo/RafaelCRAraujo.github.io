@@ -1,10 +1,11 @@
 # Welcome
 
-I am an Assistant Professor of Economics at <a href="https://economics-sp.fgv.br/">FGV EESP</a>.
+Assistant Professor of Economics at <a href="https://economics-sp.fgv.br/">FGV EESP</a>.<br>
+Associate Researcher at <a href="https://en.redepps.org">Rede PP&S</a>.
 
 I am interested in environmental issues and their social effects. 
 
-Feel free to contact me about research, code, and data.
+Feel free to contact me.
 
 Email: rafael.araujo@fgv.br
 
