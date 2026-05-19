@@ -15,34 +15,34 @@ Email: rafael.araujo@fgv.br
 
 <h3><a href="https://www.pnas.org/doi/10.1073/pnas.2312451120"> Estimating the Spatial Amplification of Damage Caused by Degradation in the Amazon</a></h3>
 with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://econ.columbia.edu/econpeople/jose-scheinkman/">José A. Scheinkman</a> and <a href="https://ipes.ufsc.br/en/team/marina-hirota-2/">Marina Hirota</a><br>
-*Proceedings of the National Academy of Sciences.* <a href="https://www.nber.org/papers/w31550">Preprint</a>
+*Proceedings of the National Academy of Sciences, 2023.* <a href="https://www.nber.org/papers/w31550">Preprint</a>
 
 <h3><a href="https://www.sciencedirect.com/science/article/pii/S014098832300703X"> The Value of Tropical Forests to Hydropower</a></h3>
-*Energy Economics.* <a href="assets/papers/Deforestation_rainfall_energy.pdf"> Preprint</a><br>
+*Energy Economics, 2024.* <a href="assets/papers/Deforestation_rainfall_energy.pdf"> Preprint</a><br>
 Outreach: <a href="https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2024/04/desmatamento-chuvas-e-geracao-de-energia-eletrica.shtml">Folha</a>, <a href="https://g1.globo.com/jornal-nacional/noticia/2024/09/19/estiagem-no-brasil-e-consequencia-direta-da-devastacao-da-amazonia-pelo-fogo-e-pela-exploracao-ilegal-de-madeira-dizem-especialistas.ghtml">Jornal Nacional</a><br>
 
 <h3><a href="https://www.journals.uchicago.edu/doi/10.1086/731080"> Going Viral: Public Attention and Environmental Action in the Amazon</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://www.teevratgarg.com/">Teevrat Garg</a><br>
-*Journal of the Association of Environmental and Resource Economists.* <a href="assets/papers/GoingViral.pdf"> Preprint</a><br>
+*Journal of the Association of Environmental and Resource Economists, 2024.* <a href="assets/papers/GoingViral.pdf"> Preprint</a><br>
 Outreach: <a href="https://www.nature.com/articles/s41558-024-02186-w">Nature CC</a><br>
 
 <h3><a href="https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdaf031/8140881?rss=1">Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>  and <a href="https://marcelosantanna.wordpress.com/">Marcelo Sant'Anna</a><br> 
-*The Review of Economic Studies.* <a href="assets/papers/Efficient_Forestation.pdf">Preprint</a> <br> 
+*The Review of Economic Studies, 2026.* <a href="assets/papers/Efficient_Forestation.pdf">Preprint</a> <br> 
 Outreach: <a href="https://voxdev.org/topic/energy-environment/fate-brazilian-amazons-carbon-stock">VoxDev</a> 
 
 <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387825001105">Transportation Infrastructure and Deforestation in the Amazon</a></h3>
 with <a href="https://www.econ.puc-rio.br/juliano/">Juliano Assunção</a>  and <a href="https://arthurbraganca7.github.io/">Arthur Bragança</a><br>
-*Journal of Development Economics.* <a href="assets/papers/Infrastructure_deforestation_GE.pdf">Preprint</a> <br>
+*Journal of Development Economics, 2025.* <a href="assets/papers/Infrastructure_deforestation_GE.pdf">Preprint</a> <br>
 Outreach: <a href="https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon">VoxDev</a><br> 
 
 <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268125002641">Seeds of Disparity: the Gender Land Divide from Brazil’s Agricultural Transition</a></h3>
 with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna Borges</a>, <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>,  and <a href="https://sites.google.com/view/kellygonsantos/home">Kelly Santos</a> <br>
-*Journal of Economic Behavior and Organization.* <a href="https://osf.io/preprints/socarxiv/dk4bc">Preprint</a> <br>
+*Journal of Economic Behavior and Organization, 2025.* <a href="https://osf.io/preprints/socarxiv/dk4bc">Preprint</a> <br>
 
 <h3><a href="https://authors.elsevier.com/c/1msSdLdSVIMIP">Drying the Wetland: Water Scarcity in the Brazilian Pantanal</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a> and Vinícius Hector <br>
-*Journal of Environmental Economics and Management.* <a href="assets/papers/Pantanal.pdf">Preprint</a> <br>
+*Journal of Environmental Economics and Management, 2026.* <a href="assets/papers/Pantanal.pdf">Preprint</a> <br>
 
 ## Working papers
 
