@@ -40,7 +40,7 @@ Outreach: <a href="https://voxdev.org/topic/energy-environment/deforestation-foo
 with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna Borges</a>, <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a>,  and <a href="https://sites.google.com/view/kellygonsantos/home">Kelly Santos</a> <br>
 *Journal of Economic Behavior and Organization, 2025.* <a href="https://osf.io/preprints/socarxiv/dk4bc">Preprint</a> <br>
 
-<h3><a href="https://authors.elsevier.com/c/1msSdLdSVIMIP">Drying the Wetland: Water Scarcity in the Brazilian Pantanal</a></h3>
+<h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0095069626000537">Drying the Wetland: Water Scarcity in the Brazilian Pantanal</a></h3>
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a> and Vinícius Hector <br>
 *Journal of Environmental Economics and Management, 2026.* <a href="assets/papers/Pantanal.pdf">Preprint</a> <br>
 
