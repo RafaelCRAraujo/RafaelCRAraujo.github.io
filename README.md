@@ -44,17 +44,16 @@ with <a href="https://sites.google.com/view/bruna-pugialli-silva-borges">Bruna B
 with <a href="https://sites.google.com/site/fjmcosta/">Francisco Costa</a> and Vinícius Hector <br>
 *Journal of Environmental Economics and Management, 2026.* <a href="assets/papers/Pantanal.pdf">Preprint</a> <br>
 
+<h3><a href="https://doi.org/10.1016/j.econlet.2026.113127">Voting in the Heat of the Moment: Climate Change Salience and Electoral Behavior</a></h3>
+with <a href="https://sites.google.com/view/leilaarp/">Leila Pereira</a> and <a href="https://rogeriosantarrosa.wordpress.com/">Rogerio Santarrosa</a> <br>
+*Economics Letters, 2026.* <a href="assets/papers/VoteHeat.pdf">Preprint</a> <br>
+
 ## Working papers
 
 <h3><a href="assets/papers/WhenCloudsGoDry.pdf"> When Clouds Go Dry: An Integrated Model of Deforestation, Rainfall, and Agriculture</a></h3>
 R&R *Journal of Political Economy*
 
 I develop a discrete choice model of deforestation with spatially heterogeneous endogenous climate. Using pixel-level data for the Amazon Rainforest and the Brazilian state of Mato Grosso,  one of the most important agricultural hubs in the world, I estimate the model and consider a counterfactual where farmers are allowed to deforest protected areas. Deforestation reduces rainfall and increases temperatures for downwind farmers, creating cascading effects on a network of externalities. Ignoring climate feedback loops significantly underestimates the costs of deforestation, highlighting the importance of considering climate endogeneity beyond the production-emissions-temperature framework.
-
-<h3><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912460">Voting in the Heat of the Moment: Climate Change Salience and Electoral Behavior</a></h3>
-with <a href="https://sites.google.com/view/leilaarp/">Leila Pereira</a> and <a href="https://rogeriosantarrosa.wordpress.com/">Rogerio Santarrosa</a>
-
-We examine the impact of short-term temperature changes on voting behavior in the Brazilian presidential elections from 2010 to 2018, focusing on the candidacy of Marina Silva, a prominent pro-environment politician. Using data on municipality-level voting and daily wet bulb temperature, we find that an increase in temperature on election day increases votes for Marina Silva. We argue that this effect is driven by the salience of climate change issues, which influences last-minute voting decisions. Our analysis also shows that temperature variations in the days preceding the election have a limited impact on voting outcomes, highlighting the transient nature of climate salience effects.
 
 <h3><a href="https://arxiv.org/abs/2502.12141">Potato Potahto in the FAO-GAEZ Productivity Measures? Nonclassical Measurement Error with Multiple Proxies</a></h3>
 with <a href="https://sites.google.com/site/vitorapossebom/">Vitor Possebom</a>
